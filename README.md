@@ -7,8 +7,7 @@ Team wiki: https://2022.igem.wiki/scut-china/
 # Description
 Ligation-Calculator.xlsx is a calculator for T4 ligation and homologous recombination using Excel and simple functional relationship.
 The functional relationships of T4 ligation are as follows:
-V_{vector} + V_{fragment} = 7\mu L, 5c_{vector} \times V_{vector} = c_{fragment} \times V_{fragment}  
-
+![](https://latex.codecogs.com/svg.image?V_{vector}&space;&plus;&space;V_{fragment}&space;=&space;7\mu&space;L,&space;5c_{vector}&space;\times&space;V_{vector}&space;=&space;c_{fragment}&space;\times&space;V_{fragment}&space;&space;)
 The functional relationships of homologous recombination ligation are as follows:
 
 
